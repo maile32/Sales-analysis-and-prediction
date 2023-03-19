@@ -1,1 +1,2 @@
-# Sales-analysis-and-prediction[Sales forecast.pdf](https://github.com/maile32/Sales-analysis-and-prediction/files/11010835/Sales.forecast.pdf)
+![image](https://user-images.githubusercontent.com/108832327/226173627-f6464df7-b0ce-43e5-9bbb-8ac19711c646.png)
+
